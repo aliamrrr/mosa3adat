@@ -1,0 +1,18 @@
+{
+  "groupName": "Mosa3adat",
+  "timezone": "Europe/Paris",
+  "sendHour": 9,
+  "sendMinute": 0,
+  "messages": [
+    {
+      "key": "demande",
+      "day": 1,
+      "text": "Assalamo alaykom l ikhwan 🌙\n\nJe vous envoie ce message mensuel pour aider ce mois-ci avec ce que vous pouvez (voir l'IBAN et le WERO épinglés ci-dessus).\n\nInshaAllah, Allah y ta9abal minkom 🤲"
+    },
+    {
+      "key": "relance",
+      "day": 2,
+      "text": "Assalamo alaykom l ikhwan 🌙\n\nPetit rappel au cas où certains auraient oublié ou n'auraient pas vu le message d'hier (IBAN et WERO épinglés ci-dessus).\n\nJazakoum Allahu khayran 🤲"
+    }
+  ]
+}
